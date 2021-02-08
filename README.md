@@ -8,3 +8,4 @@ Some micro-courses on Kaggle.com!
 * [L.4 List](Python_L4_Exercise_Lists.ipynb)
 * [L.5 Loops and List Comprehensions](Python_L5_Exercise_Loops-and-List-Comprehensions.ipynb)
 * [L.6 Strings and Dictionaries](Python_L6_Exercise_Strings-and-Dictionaries.ipynb)
+* [L.7 Working with External Libraries](Python_L7_Exercise_Working-with-External-Libraries.ipynb)
